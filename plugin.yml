@@ -1,0 +1,5 @@
+name: CountdownWhitelist
+version: 1.0
+main: net.apexnw.countdown.CountdownWhitelist
+api-version: 1.21
+author: Lixyx
